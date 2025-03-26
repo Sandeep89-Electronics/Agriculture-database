@@ -1,0 +1,16 @@
+name: groweasy_india_wiki
+description: A wiki for fruits and vegetables in India
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  http: ^1.2.0          # For future API calls
+  provider: ^6.1.2      # State management
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
